@@ -18,5 +18,11 @@
     <ClCompile Include="CppOhjelmointiKurssi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TEHT2-1_KäyttäjäNimi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TEHT2-3_KolmionAla.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

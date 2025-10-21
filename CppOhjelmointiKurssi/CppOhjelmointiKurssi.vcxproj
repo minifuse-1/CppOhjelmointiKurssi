@@ -124,6 +124,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CppOhjelmointiKurssi.cpp" />
+    <ClCompile Include="TEHT2-1_KäyttäjäNimi.cpp" />
+    <ClCompile Include="TEHT2-3_KolmionAla.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

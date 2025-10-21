@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\",
+  "WorkspaceRootPath": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDECD08B-CE33-4D6A-94FD-5FDAA9782C1D}|CppOhjelmointiKurssi\\CppOhjelmointiKurssi.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EDECD08B-CE33-4D6A-94FD-5FDAA9782C1D}|CppOhjelmointiKurssi\\CppOhjelmointiKurssi.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDECD08B-CE33-4D6A-94FD-5FDAA9782C1D}|CppOhjelmointiKurssi\\CppOhjelmointiKurssi.vcxproj|solutionrelative:CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDECD08B-CE33-4D6A-94FD-5FDAA9782C1D}|CppOhjelmointiKurssi\\CppOhjelmointiKurssi.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EDECD08B-CE33-4D6A-94FD-5FDAA9782C1D}|CppOhjelmointiKurssi\\CppOhjelmointiKurssi.vcxproj|solutionrelative:CppOhjelmointiKurssi\\CppOhjelmointiKurssi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDECD08B-CE33-4D6A-94FD-5FDAA9782C1D}|CppOhjelmointiKurssi\\CppOhjelmointiKurssi.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDECD08B-CE33-4D6A-94FD-5FDAA9782C1D}|CppOhjelmointiKurssi\\CppOhjelmointiKurssi.vcxproj|solutionrelative:CppOhjelmointiKurssi\\TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TEHT2-3_KolmionAla.cpp",
+              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp",
+              "RelativeDocumentMoniker": "CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp",
+              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp",
+              "RelativeToolTip": "CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T06:14:05.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi.cpp",
+              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi.cpp",
+              "RelativeDocumentMoniker": "CppOhjelmointiKurssi\\TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi.cpp",
+              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi.cpp",
+              "RelativeToolTip": "CppOhjelmointiKurssi\\TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T06:00:38.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CppOhjelmointiKurssi.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi.cpp",
+              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi.cpp",
               "RelativeDocumentMoniker": "CppOhjelmointiKurssi\\CppOhjelmointiKurssi.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi.cpp",
+              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi.cpp",
               "RelativeToolTip": "CppOhjelmointiKurssi\\CppOhjelmointiKurssi.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-21T04:07:02.515Z",
               "EditorCaption": ""
