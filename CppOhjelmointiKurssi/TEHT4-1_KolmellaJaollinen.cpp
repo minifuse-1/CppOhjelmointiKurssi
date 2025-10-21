@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include <ranges>
 
 int main() {
 
@@ -10,14 +9,15 @@ int main() {
 
 	do {
 		std::cout << "Laita numero:\n";
-		input = std::cin.get();
+		std::cin >> input;
 		listOfNumbers.push_back(std::stoi(input));
-	} while (input != "");
+	} while (input.length() >= 0);
 
 	auto minValue = std::min_element(std::begin(listOfNumbers), std::end(listOfNumbers));
 	auto maxValue = std::max_element(std::begin(listOfNumbers), std::end(listOfNumbers));
 
 	std::cout << minValue[0];
+	std::cout << "\n";
 	std::cout << maxValue[0];
 
 	return 0;
