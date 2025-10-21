@@ -21,6 +21,6 @@ int main3() {
 	output = std::to_string(CalculateTriangleSurface(inputWidth, inputHeight));
 	std::cout << output + "m^2 ";
 
-	return 1;
+	return 0;
 }
 
