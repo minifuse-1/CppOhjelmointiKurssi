@@ -16,9 +16,9 @@ int main() {
 	double inputWidth;
 	double inputHeight;
 
-	std::cout << "Laita Kolmion leveys metreissä: \n";
+	std::cout << "Laita Suorakulmion leveys metreis: \n";
 	std::cin >> inputWidth;
-	std::cout << "Laita Kolmion korkeus metreissä: \n";
+	std::cout << "Laita Suorakulmion korkeus metreis: \n";
 	std::cin >> inputHeight;
 
 	std::cout << "pinta-ala: " + std::to_string(CalculateBoxSurface(inputWidth, inputHeight))

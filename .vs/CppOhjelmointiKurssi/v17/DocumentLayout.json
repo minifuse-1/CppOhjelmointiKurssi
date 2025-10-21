@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D851C7EC-8F6E-43BD-8872-DEF208C804F4}|TEHT4-1_KolmellaJaolliset\\TEHT4-1_KolmellaJaolliset.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\TEHT4-1_KolmellaJaolliset\\TEHT4-1_KolmellaJaolliset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D851C7EC-8F6E-43BD-8872-DEF208C804F4}|TEHT4-1_KolmellaJaolliset\\TEHT4-1_KolmellaJaolliset.vcxproj|solutionrelative:TEHT4-1_KolmellaJaolliset\\TEHT4-1_KolmellaJaolliset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72C5B842-407F-4031-8558-844949021B3B}|TEHT2-3_KolmionAla\\TEHT2-3_KolmionAla.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{72C5B842-407F-4031-8558-844949021B3B}|TEHT2-3_KolmionAla\\TEHT2-3_KolmionAla.vcxproj|solutionrelative:CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49D1C15-0D7E-4701-94B5-41203A0ABD31}|TEHT3-3_Hemoglobiini\\TEHT3-3_Hemoglobiini.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT3-3_Hemoglobiini.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C49D1C15-0D7E-4701-94B5-41203A0ABD31}|TEHT3-3_Hemoglobiini\\TEHT3-3_Hemoglobiini.vcxproj|solutionrelative:CppOhjelmointiKurssi\\TEHT3-3_Hemoglobiini.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA7D35C0-6B90-4130-A3E9-2228C125564B}|TEHT4-2_Tuumat\\TEHT4-2_Tuumat.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\TEHT4-2_Tuumat\\TEHT4-2_Tuumat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F4FEBF2C-3AF2-443A-A6D4-0AADFBF89E4B}|TEHT6-3_Gallonat\\TEHT6-3_Gallonat.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\TEHT6-3_Gallonat\\TEHT4-2_Gallonat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F4FEBF2C-3AF2-443A-A6D4-0AADFBF89E4B}|TEHT6-3_Gallonat\\TEHT6-3_Gallonat.vcxproj|solutionrelative:TEHT6-3_Gallonat\\TEHT4-2_Gallonat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD78FD9F-4154-41E7-9D1E-3F5C0A2F37A3}|TEHT3-4_Karkausvuosi\\TEHT3-4_Karkausvuosi.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT3-4_Karkausvuosi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD78FD9F-4154-41E7-9D1E-3F5C0A2F37A3}|TEHT3-4_Karkausvuosi\\TEHT3-4_Karkausvuosi.vcxproj|solutionrelative:CppOhjelmointiKurssi\\TEHT3-4_Karkausvuosi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,30 +30,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TEHT4-1_KolmellaJaolliset.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\TEHT4-1_KolmellaJaolliset\\TEHT4-1_KolmellaJaolliset.cpp",
-              "RelativeDocumentMoniker": "TEHT4-1_KolmellaJaolliset\\TEHT4-1_KolmellaJaolliset.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\TEHT4-1_KolmellaJaolliset\\TEHT4-1_KolmellaJaolliset.cpp",
-              "RelativeToolTip": "TEHT4-1_KolmellaJaolliset\\TEHT4-1_KolmellaJaolliset.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "TEHT3-4_Karkausvuosi.cpp",
+              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT3-4_Karkausvuosi.cpp",
+              "RelativeDocumentMoniker": "CppOhjelmointiKurssi\\TEHT3-4_Karkausvuosi.cpp",
+              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT3-4_Karkausvuosi.cpp",
+              "RelativeToolTip": "CppOhjelmointiKurssi\\TEHT3-4_Karkausvuosi.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-21T10:42:33.286Z",
+              "WhenOpened": "2025-10-21T10:51:58.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TEHT3-3_Hemoglobiini.cpp",
+              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT3-3_Hemoglobiini.cpp",
+              "RelativeDocumentMoniker": "CppOhjelmointiKurssi\\TEHT3-3_Hemoglobiini.cpp",
+              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT3-3_Hemoglobiini.cpp",
+              "RelativeToolTip": "CppOhjelmointiKurssi\\TEHT3-3_Hemoglobiini.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T10:51:47.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "TEHT2-3_KolmionAla.cpp",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp",
               "RelativeDocumentMoniker": "CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp",
               "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp",
               "RelativeToolTip": "CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-21T10:27:58.334Z",
               "EditorCaption": ""
@@ -64,7 +81,8 @@
               "RelativeToolTip": "TEHT6-3_Gallonat\\TEHT4-2_Gallonat.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-21T09:40:56.49Z"
+              "WhenOpened": "2025-10-21T09:40:56.49Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

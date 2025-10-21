@@ -14,6 +14,9 @@ int main() {
 	if (remainder1 == 0 || remainder2 == 0) {
 		std::cout << "Vuosi on karkausvuosi";
 	}
+	else {
+		std::cout << "Ei ole karkausvuosi, harmi D:";
+	}
 
 	return 0;
 }
