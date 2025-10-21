@@ -1,8 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Uudellennimeä mainiksi jos haluat buildaa
-int main4() {
+int main() {
 
 	int bioSukupuoli; // 0 mies, 1 nainen, muut = määrittelemätön
 	int globinArvo;

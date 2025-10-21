@@ -18,20 +18,5 @@
     <ClCompile Include="CppOhjelmointiKurssi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="TEHT2-1_KäyttäjäNimi.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="TEHT2-3_KolmionAla.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="TEHT3-3_Hemoglobiini.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="TEHT3-4_Karkausvuosi.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="TEHT4-1_KolmellaJaollinen.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

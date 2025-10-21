@@ -1,8 +1,6 @@
 #include <iostream>
 
-// Uudellennimeä mainiksi jos haluat buildaa
-
-int main5() {
+int main() {
 
 	int vuosi;
 	std::cout << "Anna vuosi: \n";

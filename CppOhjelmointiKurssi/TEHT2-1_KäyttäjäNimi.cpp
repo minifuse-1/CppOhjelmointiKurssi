@@ -1,7 +1,6 @@
 #include <iostream>
 
-// Uudellennimeä mainiksi jos haluat buildaa
-int main2() {
+int main() {
 	
 	std::string name;
 	std::cout << "Laita nimesi: \n";

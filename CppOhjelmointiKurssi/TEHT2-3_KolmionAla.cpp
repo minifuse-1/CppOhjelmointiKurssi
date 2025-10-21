@@ -1,13 +1,13 @@
 #include <iostream>
 #include <string>
 
-// Uudellennimeä mainiksi jos haluat buildaa
+
 
 double static CalculateTriangleSurface(double width, double height) {
 	return (width * height) / 2;
 }
 
-int main3() {
+int main() {
 
 	double inputWidth;
 	double inputHeight;
