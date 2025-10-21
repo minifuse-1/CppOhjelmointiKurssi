@@ -3,8 +3,12 @@
 
 
 
-double static CalculateTriangleSurface(double width, double height) {
-	return (width * height) / 2;
+double static CalculateBoxSurface(double width, double height) {
+	return (width * height);
+}
+
+double static CalculateBoxPerimeter(double width, double height) {
+	return (2*width + 2*height);
 }
 
 int main() {
@@ -17,9 +21,8 @@ int main() {
 	std::cout << "Laita Kolmion korkeus metreissä: \n";
 	std::cin >> inputHeight;
 
-	std::string output;
-	output = std::to_string(CalculateTriangleSurface(inputWidth, inputHeight));
-	std::cout << output + "m^2 ";
+	std::cout << "pinta-ala: " + std::to_string(CalculateBoxSurface(inputWidth, inputHeight))
+		+ "m^2 piiri: " + std::to_string(CalculateBoxPerimeter(inputWidth, inputHeight)) + "m";
 
 	return 0;
 }
