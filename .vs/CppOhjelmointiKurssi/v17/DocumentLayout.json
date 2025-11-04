@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12F548BE-7158-4A40-A866-994651187EDB}|29_10-L\u00C4KSYTEHT6\\29_10-L\u00C4KSYTEHT6.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT6\\MerkkiJonoPituus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{12F548BE-7158-4A40-A866-994651187EDB}|29_10-L\u00C4KSYTEHT6\\29_10-L\u00C4KSYTEHT6.vcxproj|solutionrelative:29_10-L\u00C4KSYTEHT6\\MerkkiJonoPituus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{19405300-716D-47B2-9E40-F000483C4EAC}|4_11-TUNTITEHT6\\4_11-TUNTITEHT6.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\4_11-TUNTITEHT6\\taulukkoSumma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19405300-716D-47B2-9E40-F000483C4EAC}|4_11-TUNTITEHT6\\4_11-TUNTITEHT6.vcxproj|solutionrelative:4_11-TUNTITEHT6\\taulukkoSumma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6AFFB8-0F0E-4471-8F0D-40F09ABFDD74}|4_11-TUNTITEHT5\\4_11-TUNTITEHT5.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\4_11-TUNTITEHT5\\taulukkoluku.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B6AFFB8-0F0E-4471-8F0D-40F09ABFDD74}|4_11-TUNTITEHT5\\4_11-TUNTITEHT5.vcxproj|solutionrelative:4_11-TUNTITEHT5\\taulukkoluku.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AC7675-588B-41E9-9A74-9D8FB51EF748}|4_11-TUNITEHT1\\4_11-TUNITEHT1.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\4_11-TUNITEHT1\\globalvariable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7AC7675-588B-41E9-9A74-9D8FB51EF748}|4_11-TUNITEHT1\\4_11-TUNITEHT1.vcxproj|solutionrelative:4_11-TUNITEHT1\\globalvariable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E7B3386-BAA9-4CC6-904F-7E308383F1D7}|29_10-L\u00C4KSYTEHT5\\29_10-L\u00C4KSYTEHT5.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT5\\FunktioNollaa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7E7B3386-BAA9-4CC6-904F-7E308383F1D7}|29_10-L\u00C4KSYTEHT5\\29_10-L\u00C4KSYTEHT5.vcxproj|solutionrelative:29_10-L\u00C4KSYTEHT5\\FunktioNollaa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D78C96A-DFD6-4825-836F-C9B2FC739495}|29_10-L\u00C4KSYTEHT4\\29_10-L\u00C4KSYTEHT4.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT4\\FunktioSumma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8D78C96A-DFD6-4825-836F-C9B2FC739495}|29_10-L\u00C4KSYTEHT4\\29_10-L\u00C4KSYTEHT4.vcxproj|solutionrelative:29_10-L\u00C4KSYTEHT4\\FunktioSumma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{12F548BE-7158-4A40-A866-994651187EDB}|29_10-L\u00C4KSYTEHT6\\29_10-L\u00C4KSYTEHT6.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT6\\MerkkiJonoPituus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12F548BE-7158-4A40-A866-994651187EDB}|29_10-L\u00C4KSYTEHT6\\29_10-L\u00C4KSYTEHT6.vcxproj|solutionrelative:29_10-L\u00C4KSYTEHT6\\MerkkiJonoPituus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F66E1F57-1299-4684-9F0C-8F11E5EFEE00}|29_10-L\u00C4KSYTEHT2\\29_10-L\u00C4KSYTEHT2.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT2\\OsoitinMuisti.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,56 +31,8 @@
       "RelativeMoniker": "D:0:0:{7922C61A-1A01-40F3-862F-8CB3F548D000}|29_10-L\u00C4KSYTEHT1\\29_10-L\u00C4KSYTEHT1.vcxproj|solutionrelative:29_10-L\u00C4KSYTEHT1\\SizeOf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F67192C-310A-41A7-B77A-DCC2E3BE1F2C}|28_10_TUNTITETH6\\28_10_TUNTITETH6.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10_TUNTITETH6\\NullOsoitin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F67192C-310A-41A7-B77A-DCC2E3BE1F2C}|28_10_TUNTITETH6\\28_10_TUNTITETH6.vcxproj|solutionrelative:28_10_TUNTITETH6\\NullOsoitin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AAF459D-3086-4E43-A102-62A1A70C89D6}|28_10-TUNTITEHT5\\28_10-TUNTITEHT5.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10-TUNTITEHT5\\OsoitinSekasorto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3AAF459D-3086-4E43-A102-62A1A70C89D6}|28_10-TUNTITEHT5\\28_10-TUNTITEHT5.vcxproj|solutionrelative:28_10-TUNTITEHT5\\OsoitinSekasorto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22611F32-7239-4D7A-B2E5-F83572CA5C4E}|28_10-TUNTITEHT4\\28_10-TUNTITEHT4.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10-TUNTITEHT4\\FunktioOsoitin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{22611F32-7239-4D7A-B2E5-F83572CA5C4E}|28_10-TUNTITEHT4\\28_10-TUNTITEHT4.vcxproj|solutionrelative:28_10-TUNTITEHT4\\FunktioOsoitin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C0EF794-2846-48DD-A3A6-C7C9E100B88D}|28_10-TUNTITEHT3\\28_10-TUNTITEHT3.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10-TUNTITEHT3\\TaulukkoOsoitin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C0EF794-2846-48DD-A3A6-C7C9E100B88D}|28_10-TUNTITEHT3\\28_10-TUNTITEHT3.vcxproj|solutionrelative:28_10-TUNTITEHT3\\TaulukkoOsoitin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2A797BC-CB70-427F-9CBD-FCD5D56C48E4}|28_10-TUNTITEHT2\\28_10-TUNTITEHT2.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10-TUNTITEHT2\\DoubleOsoitin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2A797BC-CB70-427F-9CBD-FCD5D56C48E4}|28_10-TUNTITEHT2\\28_10-TUNTITEHT2.vcxproj|solutionrelative:28_10-TUNTITEHT2\\DoubleOsoitin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FADEDDE8-4A9C-44F1-A7F3-28A6174D4617}|28_10-TUNTITEHT1\\28_10-TUNTITEHT1.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10-TUNTITEHT1\\IntOsoitin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FADEDDE8-4A9C-44F1-A7F3-28A6174D4617}|28_10-TUNTITEHT1\\28_10-TUNTITEHT1.vcxproj|solutionrelative:28_10-TUNTITEHT1\\IntOsoitin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4FEBF2C-3AF2-443A-A6D4-0AADFBF89E4B}|TEHT6-3_Gallonat\\TEHT6-3_Gallonat.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\TEHT6-3_Gallonat\\TEHT4-2_Gallonat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F4FEBF2C-3AF2-443A-A6D4-0AADFBF89E4B}|TEHT6-3_Gallonat\\TEHT6-3_Gallonat.vcxproj|solutionrelative:TEHT6-3_Gallonat\\TEHT4-2_Gallonat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA7D35C0-6B90-4130-A3E9-2228C125564B}|TEHT4-2_Tuumat\\TEHT4-2_Tuumat.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\TEHT4-2_Tuumat\\TEHT4-2_Tuumat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EA7D35C0-6B90-4130-A3E9-2228C125564B}|TEHT4-2_Tuumat\\TEHT4-2_Tuumat.vcxproj|solutionrelative:TEHT4-2_Tuumat\\TEHT4-2_Tuumat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D851C7EC-8F6E-43BD-8872-DEF208C804F4}|TEHT4-1_KolmellaJaolliset\\TEHT4-1_KolmellaJaolliset.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\TEHT4-1_KolmellaJaolliset\\TEHT4-1_KolmellaJaolliset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D851C7EC-8F6E-43BD-8872-DEF208C804F4}|TEHT4-1_KolmellaJaolliset\\TEHT4-1_KolmellaJaolliset.vcxproj|solutionrelative:TEHT4-1_KolmellaJaolliset\\TEHT4-1_KolmellaJaolliset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD78FD9F-4154-41E7-9D1E-3F5C0A2F37A3}|TEHT3-4_Karkausvuosi\\TEHT3-4_Karkausvuosi.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT3-4_Karkausvuosi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD78FD9F-4154-41E7-9D1E-3F5C0A2F37A3}|TEHT3-4_Karkausvuosi\\TEHT3-4_Karkausvuosi.vcxproj|solutionrelative:CppOhjelmointiKurssi\\TEHT3-4_Karkausvuosi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C49D1C15-0D7E-4701-94B5-41203A0ABD31}|TEHT3-3_Hemoglobiini\\TEHT3-3_Hemoglobiini.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT3-3_Hemoglobiini.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C49D1C15-0D7E-4701-94B5-41203A0ABD31}|TEHT3-3_Hemoglobiini\\TEHT3-3_Hemoglobiini.vcxproj|solutionrelative:CppOhjelmointiKurssi\\TEHT3-3_Hemoglobiini.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF9516CF-F9D0-4C51-B5F2-69E1CC978D75}|TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi\\TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF9516CF-F9D0-4C51-B5F2-69E1CC978D75}|TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi\\TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi.vcxproj|solutionrelative:CppOhjelmointiKurssi\\TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C5B842-407F-4031-8558-844949021B3B}|TEHT2-3_KolmionAla\\TEHT2-3_KolmionAla.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{72C5B842-407F-4031-8558-844949021B3B}|TEHT2-3_KolmionAla\\TEHT2-3_KolmionAla.vcxproj|solutionrelative:CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8D78C96A-DFD6-4825-836F-C9B2FC739495}|29_10-L\u00C4KSYTEHT4\\29_10-L\u00C4KSYTEHT4.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT4\\FunktioSumma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D78C96A-DFD6-4825-836F-C9B2FC739495}|29_10-L\u00C4KSYTEHT4\\29_10-L\u00C4KSYTEHT4.vcxproj|solutionrelative:29_10-L\u00C4KSYTEHT4\\FunktioSumma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -87,45 +47,82 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MerkkiJonoPituus.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT6\\MerkkiJonoPituus.cpp",
-              "RelativeDocumentMoniker": "29_10-L\u00C4KSYTEHT6\\MerkkiJonoPituus.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT6\\MerkkiJonoPituus.cpp",
-              "RelativeToolTip": "29_10-L\u00C4KSYTEHT6\\MerkkiJonoPituus.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "taulukkoSumma.cpp",
+              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\4_11-TUNTITEHT6\\taulukkoSumma.cpp",
+              "RelativeDocumentMoniker": "4_11-TUNTITEHT6\\taulukkoSumma.cpp",
+              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\4_11-TUNTITEHT6\\taulukkoSumma.cpp",
+              "RelativeToolTip": "4_11-TUNTITEHT6\\taulukkoSumma.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-29T07:59:22.641Z",
+              "WhenOpened": "2025-11-04T11:57:16.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FunktioNollaa.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT5\\FunktioNollaa.cpp",
-              "RelativeDocumentMoniker": "29_10-L\u00C4KSYTEHT5\\FunktioNollaa.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT5\\FunktioNollaa.cpp",
-              "RelativeToolTip": "29_10-L\u00C4KSYTEHT5\\FunktioNollaa.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Title": "taulukkoluku.cpp",
+              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\4_11-TUNTITEHT5\\taulukkoluku.cpp",
+              "RelativeDocumentMoniker": "4_11-TUNTITEHT5\\taulukkoluku.cpp",
+              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\4_11-TUNTITEHT5\\taulukkoluku.cpp",
+              "RelativeToolTip": "4_11-TUNTITEHT5\\taulukkoluku.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-29T07:47:16.809Z",
+              "WhenOpened": "2025-11-04T11:40:15.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FunktioSumma.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT4\\FunktioSumma.cpp",
-              "RelativeDocumentMoniker": "29_10-L\u00C4KSYTEHT4\\FunktioSumma.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT4\\FunktioSumma.cpp",
-              "RelativeToolTip": "29_10-L\u00C4KSYTEHT4\\FunktioSumma.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Title": "globalvariable.cpp",
+              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\4_11-TUNITEHT1\\globalvariable.cpp",
+              "RelativeDocumentMoniker": "4_11-TUNITEHT1\\globalvariable.cpp",
+              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\4_11-TUNITEHT1\\globalvariable.cpp",
+              "RelativeToolTip": "4_11-TUNITEHT1\\globalvariable.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-29T07:41:10.099Z",
+              "WhenOpened": "2025-11-04T10:41:01.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "FunktioNollaa.cpp",
+              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT5\\FunktioNollaa.cpp",
+              "RelativeDocumentMoniker": "29_10-L\u00C4KSYTEHT5\\FunktioNollaa.cpp",
+              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT5\\FunktioNollaa.cpp",
+              "RelativeToolTip": "29_10-L\u00C4KSYTEHT5\\FunktioNollaa.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T07:04:17.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MerkkiJonoPituus.cpp",
+              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT6\\MerkkiJonoPituus.cpp",
+              "RelativeDocumentMoniker": "29_10-L\u00C4KSYTEHT6\\MerkkiJonoPituus.cpp",
+              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT6\\MerkkiJonoPituus.cpp",
+              "RelativeToolTip": "29_10-L\u00C4KSYTEHT6\\MerkkiJonoPituus.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-29T07:59:22.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FunktioSumma.cpp",
+              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT4\\FunktioSumma.cpp",
+              "RelativeDocumentMoniker": "29_10-L\u00C4KSYTEHT4\\FunktioSumma.cpp",
+              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT4\\FunktioSumma.cpp",
+              "RelativeToolTip": "29_10-L\u00C4KSYTEHT4\\FunktioSumma.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-29T07:41:10.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "OsoitinMuisti.cpp",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT2\\OsoitinMuisti.cpp",
               "RelativeDocumentMoniker": "29_10-L\u00C4KSYTEHT2\\OsoitinMuisti.cpp",
@@ -133,12 +130,11 @@
               "RelativeToolTip": "29_10-L\u00C4KSYTEHT2\\OsoitinMuisti.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-29T07:11:00.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T07:11:00.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SizeOf.cpp",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT1\\SizeOf.cpp",
               "RelativeDocumentMoniker": "29_10-L\u00C4KSYTEHT1\\SizeOf.cpp",
@@ -146,165 +142,7 @@
               "RelativeToolTip": "29_10-L\u00C4KSYTEHT1\\SizeOf.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-29T07:07:27.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NullOsoitin.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10_TUNTITETH6\\NullOsoitin.cpp",
-              "RelativeDocumentMoniker": "28_10_TUNTITETH6\\NullOsoitin.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10_TUNTITETH6\\NullOsoitin.cpp",
-              "RelativeToolTip": "28_10_TUNTITETH6\\NullOsoitin.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-28T11:30:10.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OsoitinSekasorto.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10-TUNTITEHT5\\OsoitinSekasorto.cpp",
-              "RelativeDocumentMoniker": "28_10-TUNTITEHT5\\OsoitinSekasorto.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10-TUNTITEHT5\\OsoitinSekasorto.cpp",
-              "RelativeToolTip": "28_10-TUNTITEHT5\\OsoitinSekasorto.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-28T11:26:50.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FunktioOsoitin.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10-TUNTITEHT4\\FunktioOsoitin.cpp",
-              "RelativeDocumentMoniker": "28_10-TUNTITEHT4\\FunktioOsoitin.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10-TUNTITEHT4\\FunktioOsoitin.cpp",
-              "RelativeToolTip": "28_10-TUNTITEHT4\\FunktioOsoitin.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-28T11:20:24.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TaulukkoOsoitin.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10-TUNTITEHT3\\TaulukkoOsoitin.cpp",
-              "RelativeDocumentMoniker": "28_10-TUNTITEHT3\\TaulukkoOsoitin.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10-TUNTITEHT3\\TaulukkoOsoitin.cpp",
-              "RelativeToolTip": "28_10-TUNTITEHT3\\TaulukkoOsoitin.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-28T11:10:46.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DoubleOsoitin.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10-TUNTITEHT2\\DoubleOsoitin.cpp",
-              "RelativeDocumentMoniker": "28_10-TUNTITEHT2\\DoubleOsoitin.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10-TUNTITEHT2\\DoubleOsoitin.cpp",
-              "RelativeToolTip": "28_10-TUNTITEHT2\\DoubleOsoitin.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-28T11:06:33.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IntOsoitin.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10-TUNTITEHT1\\IntOsoitin.cpp",
-              "RelativeDocumentMoniker": "28_10-TUNTITEHT1\\IntOsoitin.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\28_10-TUNTITEHT1\\IntOsoitin.cpp",
-              "RelativeToolTip": "28_10-TUNTITEHT1\\IntOsoitin.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-28T11:01:51.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TEHT4-1_KolmellaJaolliset.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\TEHT4-1_KolmellaJaolliset\\TEHT4-1_KolmellaJaolliset.cpp",
-              "RelativeDocumentMoniker": "TEHT4-1_KolmellaJaolliset\\TEHT4-1_KolmellaJaolliset.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\TEHT4-1_KolmellaJaolliset\\TEHT4-1_KolmellaJaolliset.cpp",
-              "RelativeToolTip": "TEHT4-1_KolmellaJaolliset\\TEHT4-1_KolmellaJaolliset.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-28T08:42:20.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi.cpp",
-              "RelativeDocumentMoniker": "CppOhjelmointiKurssi\\TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi.cpp",
-              "RelativeToolTip": "CppOhjelmointiKurssi\\TEHT2-1_K\u00E4ytt\u00E4j\u00E4Nimi.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-28T07:18:42.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TEHT3-4_Karkausvuosi.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT3-4_Karkausvuosi.cpp",
-              "RelativeDocumentMoniker": "CppOhjelmointiKurssi\\TEHT3-4_Karkausvuosi.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT3-4_Karkausvuosi.cpp",
-              "RelativeToolTip": "CppOhjelmointiKurssi\\TEHT3-4_Karkausvuosi.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-21T10:51:58.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TEHT3-3_Hemoglobiini.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT3-3_Hemoglobiini.cpp",
-              "RelativeDocumentMoniker": "CppOhjelmointiKurssi\\TEHT3-3_Hemoglobiini.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT3-3_Hemoglobiini.cpp",
-              "RelativeToolTip": "CppOhjelmointiKurssi\\TEHT3-3_Hemoglobiini.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-21T10:51:47.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TEHT4-2_Tuumat.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\TEHT4-2_Tuumat\\TEHT4-2_Tuumat.cpp",
-              "RelativeDocumentMoniker": "TEHT4-2_Tuumat\\TEHT4-2_Tuumat.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\TEHT4-2_Tuumat\\TEHT4-2_Tuumat.cpp",
-              "RelativeToolTip": "TEHT4-2_Tuumat\\TEHT4-2_Tuumat.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-21T09:30:55.102Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TEHT4-2_Gallonat.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\TEHT6-3_Gallonat\\TEHT4-2_Gallonat.cpp",
-              "RelativeDocumentMoniker": "TEHT6-3_Gallonat\\TEHT4-2_Gallonat.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\TEHT6-3_Gallonat\\TEHT4-2_Gallonat.cpp",
-              "RelativeToolTip": "TEHT6-3_Gallonat\\TEHT4-2_Gallonat.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-21T09:40:56.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TEHT2-3_KolmionAla.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp",
-              "RelativeDocumentMoniker": "CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp",
-              "RelativeToolTip": "CppOhjelmointiKurssi\\TEHT2-3_KolmionAla.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-21T10:27:58.334Z"
+              "WhenOpened": "2025-10-29T07:07:27.253Z"
             }
           ]
         }

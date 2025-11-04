@@ -1,0 +1,5 @@
+unresolved external symbol "int x" (?x@@3HA)
+ja
+1 unresolved externals
+
+static globaalia muuttujaa ei pysty k‰sittelem‰‰n sen tiedoston ulkopuolella.
