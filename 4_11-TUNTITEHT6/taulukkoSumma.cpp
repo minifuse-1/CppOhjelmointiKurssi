@@ -9,7 +9,6 @@ int arraySum(int* start, int  size) {
 }
 
 int main() {
-
 	int size = 3;
 	int* t = new int[size];
 	for (int i = 0; i < size; i++) t[i] = i;
