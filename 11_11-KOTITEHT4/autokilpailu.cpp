@@ -14,7 +14,7 @@ public:
 		_current_speed = 0;
 		_distance_traveled = 0;
 	}
-	Auto(std::string register_param, float max_speed) {
+	Auto(std::string& register_param, float max_speed) {
 		_max_speed = max_speed;
 		_register_number = register_param;
 		_current_speed = 0;
@@ -41,6 +41,9 @@ public:
 		std::cout << "Register : ";
 		std::cout << _register_number << std::endl;
 		std::cout << std::endl;
+	}
+	static void staticfunk() {
+		std::cout << "Static";
 	}
 };
 
@@ -69,5 +72,6 @@ int main() {
 	for (int i = 0; i < how_many_cars; i++) {
 		cars[i].print_info();
 	}
+	Auto::staticfunk();
 	return 0;
 }

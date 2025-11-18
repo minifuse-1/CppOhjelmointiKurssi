@@ -1,0 +1,4 @@
+﻿  autokilpailu.cpp
+C:\Users\janir\Documents\CppOhjelmointiKurssi\11_11-KOTITEHT4\autokilpailu.cpp(61,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\janir\Documents\CppOhjelmointiKurssi\11_11-KOTITEHT4\autokilpailu.cpp(64,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  11_11-KOTITEHT4.vcxproj -> C:\Users\janir\Documents\CppOhjelmointiKurssi\x64\Debug\11_11-KOTITEHT4.exe
