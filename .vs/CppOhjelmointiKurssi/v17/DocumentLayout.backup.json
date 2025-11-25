@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8B2CAECD-C8F6-4A4F-9B5C-1FF732422E5B}|25_11-TUNTITEHT5\\25_11-TUNTITEHT5.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\25_11-TUNTITEHT5\\map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B2CAECD-C8F6-4A4F-9B5C-1FF732422E5B}|25_11-TUNTITEHT5\\25_11-TUNTITEHT5.vcxproj|solutionrelative:25_11-TUNTITEHT5\\map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7CD63F-3457-44C7-B38E-8ACD7CB9DD86}|25_11-TUNTITEHT4\\25_11-TUNTITEHT4.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\25_11-TUNTITEHT4\\jono.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF7CD63F-3457-44C7-B38E-8ACD7CB9DD86}|25_11-TUNTITEHT4\\25_11-TUNTITEHT4.vcxproj|solutionrelative:25_11-TUNTITEHT4\\jono.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9126F92-8033-4F68-B131-A18399B99E5F}|25_11-TUNTITEHT3\\25_11-TUNTITEHT3.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\25_11-TUNTITEHT3\\arvosanat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9126F92-8033-4F68-B131-A18399B99E5F}|25_11-TUNTITEHT3\\25_11-TUNTITEHT3.vcxproj|solutionrelative:25_11-TUNTITEHT3\\arvosanat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAB9F3AD-1BD5-4902-BE4F-C128CD2261D5}|18_11-L\u00C4KSYTEHT3\\18_11-L\u00C4KSYTEHT3.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-L\u00C4KSYTEHT3\\filestream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BAB9F3AD-1BD5-4902-BE4F-C128CD2261D5}|18_11-L\u00C4KSYTEHT3\\18_11-L\u00C4KSYTEHT3.vcxproj|solutionrelative:18_11-L\u00C4KSYTEHT3\\filestream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,78 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CD35178C-2B2F-4F9A-AAA1-6554747A6FE9}|18_11-L\u00C4KSYTEHT2\\18_11-L\u00C4KSYTEHT2.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-L\u00C4KSYTEHT2\\laskutoimitus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD35178C-2B2F-4F9A-AAA1-6554747A6FE9}|18_11-L\u00C4KSYTEHT2\\18_11-L\u00C4KSYTEHT2.vcxproj|solutionrelative:18_11-L\u00C4KSYTEHT2\\laskutoimitus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05D31DB6-5B5C-47A6-8F2D-EC6603D588B8}|18_11-L\u00C4KSYTEHT1\\18_11-L\u00C4KSYTEHT1.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-L\u00C4KSYTEHT1\\ajoneuvo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{05D31DB6-5B5C-47A6-8F2D-EC6603D588B8}|18_11-L\u00C4KSYTEHT1\\18_11-L\u00C4KSYTEHT1.vcxproj|solutionrelative:18_11-L\u00C4KSYTEHT1\\ajoneuvo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05D31DB6-5B5C-47A6-8F2D-EC6603D588B8}|18_11-L\u00C4KSYTEHT1\\18_11-L\u00C4KSYTEHT1.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-L\u00C4KSYTEHT1\\ajoneuvo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{05D31DB6-5B5C-47A6-8F2D-EC6603D588B8}|18_11-L\u00C4KSYTEHT1\\18_11-L\u00C4KSYTEHT1.vcxproj|solutionrelative:18_11-L\u00C4KSYTEHT1\\ajoneuvo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{592163AC-C9C7-41EF-83C4-C9C0328B2230}|18_11-TUNTITEHT5\\18_11-TUNTITEHT5.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-TUNTITEHT5\\dynamicpointerel\u00E4in.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{592163AC-C9C7-41EF-83C4-C9C0328B2230}|18_11-TUNTITEHT5\\18_11-TUNTITEHT5.vcxproj|solutionrelative:18_11-TUNTITEHT5\\dynamicpointerel\u00E4in.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A680C1D1-6E09-4D56-A586-6E738DCD5579}|18_11-TUNTITEHT3\\18_11-TUNTITEHT3.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-TUNTITEHT3\\el\u00E4invirtual.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A680C1D1-6E09-4D56-A586-6E738DCD5579}|18_11-TUNTITEHT3\\18_11-TUNTITEHT3.vcxproj|solutionrelative:18_11-TUNTITEHT3\\el\u00E4invirtual.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{595A045A-D204-46C3-8643-03182FC949FB}|18_11-TUNTITEHT1\\18_11-TUNTITEHT1.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-TUNTITEHT1\\opiskelija.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{595A045A-D204-46C3-8643-03182FC949FB}|18_11-TUNTITEHT1\\18_11-TUNTITEHT1.vcxproj|solutionrelative:18_11-TUNTITEHT1\\opiskelija.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F44C0DB-430D-44B6-9C7C-C77D41228B68}|19_11-TUNTITEHT2\\19_11-TUNTITEHT2.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\19_11-TUNTITEHT2\\el\u00E4in.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3F44C0DB-430D-44B6-9C7C-C77D41228B68}|19_11-TUNTITEHT2\\19_11-TUNTITEHT2.vcxproj|solutionrelative:19_11-TUNTITEHT2\\el\u00E4in.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E98EC2EF-A272-41CA-AA49-3B1AE301E61B}|11_11-KOTITEHT4\\11_11-KOTITEHT4.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-KOTITEHT4\\autokilpailu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E98EC2EF-A272-41CA-AA49-3B1AE301E61B}|11_11-KOTITEHT4\\11_11-KOTITEHT4.vcxproj|solutionrelative:11_11-KOTITEHT4\\autokilpailu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF7BB450-6915-40FF-8CC7-A27E72B43773}|11_11-KOTITEHT3\\11_11-KOTITEHT3.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-KOTITEHT3\\autokulje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF7BB450-6915-40FF-8CC7-A27E72B43773}|11_11-KOTITEHT3\\11_11-KOTITEHT3.vcxproj|solutionrelative:11_11-KOTITEHT3\\autokulje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C22271BD-E44D-4153-AC0B-D95E8194813A}|11_11-KOTITEHT2\\11_11-KOTITEHT2.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-KOTITEHT2\\autoaccelerate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C22271BD-E44D-4153-AC0B-D95E8194813A}|11_11-KOTITEHT2\\11_11-KOTITEHT2.vcxproj|solutionrelative:11_11-KOTITEHT2\\autoaccelerate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F9A8AF4-81E6-4D78-9395-305684CCE687}|11_11-KOTITEHT1\\11_11-KOTITEHT1.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-KOTITEHT1\\auto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5F9A8AF4-81E6-4D78-9395-305684CCE687}|11_11-KOTITEHT1\\11_11-KOTITEHT1.vcxproj|solutionrelative:11_11-KOTITEHT1\\auto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C3F4F82-DC19-498E-8265-663CB4EE9B85}|11_11-TUNTITEHT1\\11_11-TUNTITEHT1.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT1\\luokkam\u00E4\u00E4rittely.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C3F4F82-DC19-498E-8265-663CB4EE9B85}|11_11-TUNTITEHT1\\11_11-TUNTITEHT1.vcxproj|solutionrelative:11_11-TUNTITEHT1\\luokkam\u00E4\u00E4rittely.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7637CA96-FBBE-4EF3-8430-9D966F89448E}|11_11-TUNTITEHT6\\11_11-TUNTITEHT6.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT6\\printcar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7637CA96-FBBE-4EF3-8430-9D966F89448E}|11_11-TUNTITEHT6\\11_11-TUNTITEHT6.vcxproj|solutionrelative:11_11-TUNTITEHT6\\printcar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{293A6575-5372-405F-843D-62D3A269D610}|11_11-TUNTITEHT5\\11_11-TUNTITEHT5.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT5\\book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{293A6575-5372-405F-843D-62D3A269D610}|11_11-TUNTITEHT5\\11_11-TUNTITEHT5.vcxproj|solutionrelative:11_11-TUNTITEHT5\\book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D14950C-476C-41E3-929E-FBC78915DEDB}|11_11-TUNTITEHT4\\11_11-TUNTITEHT4.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT4\\box.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7D14950C-476C-41E3-929E-FBC78915DEDB}|11_11-TUNTITEHT4\\11_11-TUNTITEHT4.vcxproj|solutionrelative:11_11-TUNTITEHT4\\box.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37BCBC6F-BC48-4B50-BE04-A780E58FB39B}|11_11-TUNTITEHT3\\11_11-TUNTITEHT3.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT3\\point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{37BCBC6F-BC48-4B50-BE04-A780E58FB39B}|11_11-TUNTITEHT3\\11_11-TUNTITEHT3.vcxproj|solutionrelative:11_11-TUNTITEHT3\\point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{397011ED-380B-4739-B2DE-8520B069F1E9}|11_11-TUNTITEHT2\\11_11-TUNTITEHT2.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT2\\lamppu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{397011ED-380B-4739-B2DE-8520B069F1E9}|11_11-TUNTITEHT2\\11_11-TUNTITEHT2.vcxproj|solutionrelative:11_11-TUNTITEHT2\\lamppu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{924E04E6-800A-46C1-B9C5-D942794C7060}|7_11-L\u00C4KSYTEHT5\\7_11-L\u00C4KSYTEHT5.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\7_11-L\u00C4KSYTEHT5\\taulukkomagiaa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{924E04E6-800A-46C1-B9C5-D942794C7060}|7_11-L\u00C4KSYTEHT5\\7_11-L\u00C4KSYTEHT5.vcxproj|solutionrelative:7_11-L\u00C4KSYTEHT5\\taulukkomagiaa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7406489D-61FF-4AF3-ABB7-F038D7E5E179}|7_11-L\u00C4KSYTEHT6\\7_11-L\u00C4KSYTEHT6.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\7_11-L\u00C4KSYTEHT6\\taulukkomagiaglobal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7406489D-61FF-4AF3-ABB7-F038D7E5E179}|7_11-L\u00C4KSYTEHT6\\7_11-L\u00C4KSYTEHT6.vcxproj|solutionrelative:7_11-L\u00C4KSYTEHT6\\taulukkomagiaglobal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19405300-716D-47B2-9E40-F000483C4EAC}|4_11-TUNTITEHT6\\4_11-TUNTITEHT6.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\4_11-TUNTITEHT6\\taulukkoSumma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -101,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B8DF3CCB-671B-4803-B9B7-1A5193120DCB}|7_11-L\u00C4KSYTEHT3\\7_11-L\u00C4KSYTEHT3.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\7_11-L\u00C4KSYTEHT3\\kaanna.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B8DF3CCB-671B-4803-B9B7-1A5193120DCB}|7_11-L\u00C4KSYTEHT3\\7_11-L\u00C4KSYTEHT3.vcxproj|solutionrelative:7_11-L\u00C4KSYTEHT3\\kaanna.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70E65D4E-2DD7-4AB4-A2D0-C83552B12D7D}|7_11-L\u00C4KSYTEHT4\\7_11-L\u00C4KSYTEHT4.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\7_11-L\u00C4KSYTEHT4\\tulostarvot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{70E65D4E-2DD7-4AB4-A2D0-C83552B12D7D}|7_11-L\u00C4KSYTEHT4\\7_11-L\u00C4KSYTEHT4.vcxproj|solutionrelative:7_11-L\u00C4KSYTEHT4\\tulostarvot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B6AFFB8-0F0E-4471-8F0D-40F09ABFDD74}|4_11-TUNTITEHT5\\4_11-TUNTITEHT5.vcxproj|C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\4_11-TUNTITEHT5\\taulukkoluku.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -142,11 +78,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "map.cpp",
+              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\25_11-TUNTITEHT5\\map.cpp",
+              "RelativeDocumentMoniker": "25_11-TUNTITEHT5\\map.cpp",
+              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\25_11-TUNTITEHT5\\map.cpp",
+              "RelativeToolTip": "25_11-TUNTITEHT5\\map.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T12:08:51.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "jono.cpp",
+              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\25_11-TUNTITEHT4\\jono.cpp",
+              "RelativeDocumentMoniker": "25_11-TUNTITEHT4\\jono.cpp",
+              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\25_11-TUNTITEHT4\\jono.cpp",
+              "RelativeToolTip": "25_11-TUNTITEHT4\\jono.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T11:56:53.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arvosanat.cpp",
+              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\25_11-TUNTITEHT3\\arvosanat.cpp",
+              "RelativeDocumentMoniker": "25_11-TUNTITEHT3\\arvosanat.cpp",
+              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\25_11-TUNTITEHT3\\arvosanat.cpp",
+              "RelativeToolTip": "25_11-TUNTITEHT3\\arvosanat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T11:43:47.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "save.txt",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-L\u00C4KSYTEHT3\\save.txt",
               "RelativeDocumentMoniker": "18_11-L\u00C4KSYTEHT3\\save.txt",
@@ -159,260 +134,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "filestream.cpp",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-L\u00C4KSYTEHT3\\filestream.cpp",
               "RelativeDocumentMoniker": "18_11-L\u00C4KSYTEHT3\\filestream.cpp",
               "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-L\u00C4KSYTEHT3\\filestream.cpp",
               "RelativeToolTip": "18_11-L\u00C4KSYTEHT3\\filestream.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-19T16:36:14.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "laskutoimitus.cpp",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-L\u00C4KSYTEHT2\\laskutoimitus.cpp",
               "RelativeDocumentMoniker": "18_11-L\u00C4KSYTEHT2\\laskutoimitus.cpp",
               "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-L\u00C4KSYTEHT2\\laskutoimitus.cpp",
               "RelativeToolTip": "18_11-L\u00C4KSYTEHT2\\laskutoimitus.cpp",
-              "ViewState": "AgIAABAAAAAAAAAAAAAEwB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-19T16:24:18.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ajoneuvo.h",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-L\u00C4KSYTEHT1\\ajoneuvo.h",
-              "RelativeDocumentMoniker": "18_11-L\u00C4KSYTEHT1\\ajoneuvo.h",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-L\u00C4KSYTEHT1\\ajoneuvo.h",
-              "RelativeToolTip": "18_11-L\u00C4KSYTEHT1\\ajoneuvo.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-18T11:24:26.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ajoneuvo.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-L\u00C4KSYTEHT1\\ajoneuvo.cpp",
-              "RelativeDocumentMoniker": "18_11-L\u00C4KSYTEHT1\\ajoneuvo.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-L\u00C4KSYTEHT1\\ajoneuvo.cpp",
-              "RelativeToolTip": "18_11-L\u00C4KSYTEHT1\\ajoneuvo.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T11:22:50.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "dynamicpointerel\u00E4in.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-TUNTITEHT5\\dynamicpointerel\u00E4in.cpp",
-              "RelativeDocumentMoniker": "18_11-TUNTITEHT5\\dynamicpointerel\u00E4in.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-TUNTITEHT5\\dynamicpointerel\u00E4in.cpp",
-              "RelativeToolTip": "18_11-TUNTITEHT5\\dynamicpointerel\u00E4in.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T11:15:56.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "el\u00E4invirtual.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-TUNTITEHT3\\el\u00E4invirtual.cpp",
-              "RelativeDocumentMoniker": "18_11-TUNTITEHT3\\el\u00E4invirtual.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-TUNTITEHT3\\el\u00E4invirtual.cpp",
-              "RelativeToolTip": "18_11-TUNTITEHT3\\el\u00E4invirtual.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T08:55:50.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "el\u00E4in.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\19_11-TUNTITEHT2\\el\u00E4in.cpp",
-              "RelativeDocumentMoniker": "19_11-TUNTITEHT2\\el\u00E4in.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\19_11-TUNTITEHT2\\el\u00E4in.cpp",
-              "RelativeToolTip": "19_11-TUNTITEHT2\\el\u00E4in.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T08:43:00.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "opiskelija.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-TUNTITEHT1\\opiskelija.cpp",
-              "RelativeDocumentMoniker": "18_11-TUNTITEHT1\\opiskelija.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\18_11-TUNTITEHT1\\opiskelija.cpp",
-              "RelativeToolTip": "18_11-TUNTITEHT1\\opiskelija.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T08:12:32.508Z"
+              "WhenOpened": "2025-11-19T16:24:18.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "autokilpailu.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-KOTITEHT4\\autokilpailu.cpp",
-              "RelativeDocumentMoniker": "11_11-KOTITEHT4\\autokilpailu.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-KOTITEHT4\\autokilpailu.cpp",
-              "RelativeToolTip": "11_11-KOTITEHT4\\autokilpailu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-11T12:13:05.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "autokulje.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-KOTITEHT3\\autokulje.cpp",
-              "RelativeDocumentMoniker": "11_11-KOTITEHT3\\autokulje.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-KOTITEHT3\\autokulje.cpp",
-              "RelativeToolTip": "11_11-KOTITEHT3\\autokulje.cpp",
-              "ViewState": "AgIAACkAAAAAAAAAAAAUwDQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-11T11:43:23.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "autoaccelerate.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-KOTITEHT2\\autoaccelerate.cpp",
-              "RelativeDocumentMoniker": "11_11-KOTITEHT2\\autoaccelerate.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-KOTITEHT2\\autoaccelerate.cpp",
-              "RelativeToolTip": "11_11-KOTITEHT2\\autoaccelerate.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-11T11:32:47.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "auto.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-KOTITEHT1\\auto.cpp",
-              "RelativeDocumentMoniker": "11_11-KOTITEHT1\\auto.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-KOTITEHT1\\auto.cpp",
-              "RelativeToolTip": "11_11-KOTITEHT1\\auto.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-11T11:24:05.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "printcar.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT6\\printcar.cpp",
-              "RelativeDocumentMoniker": "11_11-TUNTITEHT6\\printcar.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT6\\printcar.cpp",
-              "RelativeToolTip": "11_11-TUNTITEHT6\\printcar.cpp",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-11T11:12:38.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "book.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT5\\book.cpp",
-              "RelativeDocumentMoniker": "11_11-TUNTITEHT5\\book.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT5\\book.cpp",
-              "RelativeToolTip": "11_11-TUNTITEHT5\\book.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvxUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-11T10:58:24.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "box.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT4\\box.cpp",
-              "RelativeDocumentMoniker": "11_11-TUNTITEHT4\\box.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT4\\box.cpp",
-              "RelativeToolTip": "11_11-TUNTITEHT4\\box.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-11T10:54:28.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "point.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT3\\point.cpp",
-              "RelativeDocumentMoniker": "11_11-TUNTITEHT3\\point.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT3\\point.cpp",
-              "RelativeToolTip": "11_11-TUNTITEHT3\\point.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-11T10:46:19.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "lamppu.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT2\\lamppu.cpp",
-              "RelativeDocumentMoniker": "11_11-TUNTITEHT2\\lamppu.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT2\\lamppu.cpp",
-              "RelativeToolTip": "11_11-TUNTITEHT2\\lamppu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-11T10:36:18.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "luokkam\u00E4\u00E4rittely.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT1\\luokkam\u00E4\u00E4rittely.cpp",
-              "RelativeDocumentMoniker": "11_11-TUNTITEHT1\\luokkam\u00E4\u00E4rittely.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\11_11-TUNTITEHT1\\luokkam\u00E4\u00E4rittely.cpp",
-              "RelativeToolTip": "11_11-TUNTITEHT1\\luokkam\u00E4\u00E4rittely.cpp",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAEwBoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-11T10:25:38.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "taulukkomagiaglobal.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\7_11-L\u00C4KSYTEHT6\\taulukkomagiaglobal.cpp",
-              "RelativeDocumentMoniker": "7_11-L\u00C4KSYTEHT6\\taulukkomagiaglobal.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\7_11-L\u00C4KSYTEHT6\\taulukkomagiaglobal.cpp",
-              "RelativeToolTip": "7_11-L\u00C4KSYTEHT6\\taulukkomagiaglobal.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-07T08:45:00.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "taulukkomagiaa.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\7_11-L\u00C4KSYTEHT5\\taulukkomagiaa.cpp",
-              "RelativeDocumentMoniker": "7_11-L\u00C4KSYTEHT5\\taulukkomagiaa.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\7_11-L\u00C4KSYTEHT5\\taulukkomagiaa.cpp",
-              "RelativeToolTip": "7_11-L\u00C4KSYTEHT5\\taulukkomagiaa.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-07T08:38:55.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "tulostarvot.cpp",
-              "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\7_11-L\u00C4KSYTEHT4\\tulostarvot.cpp",
-              "RelativeDocumentMoniker": "7_11-L\u00C4KSYTEHT4\\tulostarvot.cpp",
-              "ToolTip": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\7_11-L\u00C4KSYTEHT4\\tulostarvot.cpp",
-              "RelativeToolTip": "7_11-L\u00C4KSYTEHT4\\tulostarvot.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-07T08:31:34.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
               "Title": "kaanna.cpp",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\7_11-L\u00C4KSYTEHT3\\kaanna.cpp",
               "RelativeDocumentMoniker": "7_11-L\u00C4KSYTEHT3\\kaanna.cpp",
@@ -424,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 8,
               "Title": "luearvot.cpp",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\7_11-L\u00C4KSYTEHT2\\luearvot.cpp",
               "RelativeDocumentMoniker": "7_11-L\u00C4KSYTEHT2\\luearvot.cpp",
@@ -436,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 7,
               "Title": "taulukkovaraus.cpp",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\7_11-L\u00C4KSYTEHT1\\taulukkovaraus.cpp",
               "RelativeDocumentMoniker": "7_11-L\u00C4KSYTEHT1\\taulukkovaraus.cpp",
@@ -448,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 6,
               "Title": "taulukkoSumma.cpp",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\4_11-TUNTITEHT6\\taulukkoSumma.cpp",
               "RelativeDocumentMoniker": "4_11-TUNTITEHT6\\taulukkoSumma.cpp",
@@ -460,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 10,
               "Title": "taulukkoluku.cpp",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\4_11-TUNTITEHT5\\taulukkoluku.cpp",
               "RelativeDocumentMoniker": "4_11-TUNTITEHT5\\taulukkoluku.cpp",
@@ -472,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 11,
               "Title": "globalvariable.cpp",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\4_11-TUNITEHT1\\globalvariable.cpp",
               "RelativeDocumentMoniker": "4_11-TUNITEHT1\\globalvariable.cpp",
@@ -484,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 12,
               "Title": "FunktioNollaa.cpp",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT5\\FunktioNollaa.cpp",
               "RelativeDocumentMoniker": "29_10-L\u00C4KSYTEHT5\\FunktioNollaa.cpp",
@@ -496,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 13,
               "Title": "MerkkiJonoPituus.cpp",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT6\\MerkkiJonoPituus.cpp",
               "RelativeDocumentMoniker": "29_10-L\u00C4KSYTEHT6\\MerkkiJonoPituus.cpp",
@@ -508,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 16,
               "Title": "FunktioSumma.cpp",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT4\\FunktioSumma.cpp",
               "RelativeDocumentMoniker": "29_10-L\u00C4KSYTEHT4\\FunktioSumma.cpp",
@@ -520,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 14,
               "Title": "OsoitinMuisti.cpp",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT2\\OsoitinMuisti.cpp",
               "RelativeDocumentMoniker": "29_10-L\u00C4KSYTEHT2\\OsoitinMuisti.cpp",
@@ -532,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 15,
               "Title": "SizeOf.cpp",
               "DocumentMoniker": "C:\\Users\\janir\\Documents\\CppOhjelmointiKurssi\\29_10-L\u00C4KSYTEHT1\\SizeOf.cpp",
               "RelativeDocumentMoniker": "29_10-L\u00C4KSYTEHT1\\SizeOf.cpp",
