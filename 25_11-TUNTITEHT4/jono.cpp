@@ -6,14 +6,13 @@
 int main() {
 	std::list<std::string> jono;
 	std::string input = " ";
-	while (true) {
-		std::cin >> input;
-		if (std::cin.get() == '\n' && input.size() == 0) break;
+	while (input != "") {
+		std::getline(std::cin, input);
 		jono.push_back(input);
 	}
 
-	for (std::string text : jono) {
-		std::cout << text;
+	while (!jono.empty()) {
+		std::cout << jono.front() << std::endl;
 		jono.pop_front();
 	}
 	return 0;

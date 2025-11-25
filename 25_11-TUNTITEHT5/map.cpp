@@ -7,16 +7,16 @@ int main() {
 	std::map<std::string, std::string> luettelo;
 	std::string inputName = " ";
 	std::string inputNumber = " ";
-	while (true) {
-		std::cin >> inputNumber;
-		std::cin >> inputName;
-		if (std::cin.get() == '\n' && inputNumber.size() == 0 || inputName.size() == 0) break;
-		luettelo[inputNumber] = inputName;
+	while (inputName != "" || inputNumber != "") {
+		std::getline(std::cin, inputNumber);
+		if (inputNumber.size() == 0) break;
+		std::getline(std::cin, inputName);
+		luettelo[inputName] = inputNumber;
 	}
-
+	std::cout << "Anna nro" << std::endl;
 	while (true) {
-		std::cin >> inputNumber;
-		std::cout << luettelo[inputNumber];
+		std::cin >> inputName;
+		std::cout << luettelo[inputName] << std::endl;
 	}
 
 	return 0;
